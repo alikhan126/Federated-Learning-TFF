@@ -43,7 +43,7 @@ notebook==5.7.4
 numpy==1.14.3
 object-detection==0.1
 opencv-contrib-python==4.0.0.21
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pandas==0.24.1
 pandocfilters==1.4.2
 parso==0.3.2
